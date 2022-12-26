@@ -132,9 +132,9 @@ penguins %>%
 
 Penguins are fun to visualize! For example:
 
-<img src="man/figures/README-mass-flipper-1.png" width="75%" style="display: block; margin: auto;" />
+<img src="https://user-images.githubusercontent.com/100862089/209542600-748e35c3-bdef-4609-aab3-394e817da1a7.png" width="75%" style="display: block; margin: auto;" />
 
-<img src="man/figures/README-flipper-hist-1.png" width="75%" style="display: block; margin: auto;" />
+<img src="https://user-images.githubusercontent.com/100862089/209542629-f48b7deb-1ea3-46f8-a176-7290b3eb779b.png" width="75%" style="display: block; margin: auto;" />
 
 ## Artwork
 
@@ -144,7 +144,7 @@ in `vignette("art")`. If you use this artwork, please cite with:
 
 ### Meet the Palmer penguins
 
-<img src="man/figures/lter_penguins.png" width="75%" style="display: block; margin: auto;" />
+<img src="https://user-images.githubusercontent.com/100862089/209542659-b2d0263f-5dd2-49c8-851f-ccc4db8775b7.png" width="75%" style="display: block; margin: auto;" />
 
 ### Bill dimensions
 
@@ -155,7 +155,7 @@ The culmen is the upper ridge of a bird’s bill. In the simplified
 For this penguin data, the culmen (bill) length and depth are measured
 as shown below (thanks Kristen Gorman for clarifying!):
 
-<img src="man/figures/culmen_depth.png" width="75%" style="display: block; margin: auto;" />
+<img src="https://user-images.githubusercontent.com/100862089/209542687-e73079fe-9307-4ad6-92d7-bd043a007694.png" width="75%" style="display: block; margin: auto;" />
 
 ## License
 
