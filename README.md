@@ -10,7 +10,7 @@
 The goal of palmerpenguins is to provide a great dataset for data
 exploration & visualization, as an alternative to `iris`.
 
-<img src="man/figures/README-flipper-bill-1.png" width="75%" style="display: block; margin: auto;" />
+<img src="https://user-images.githubusercontent.com/100862089/209542489-6d457949-2874-4a20-8b6f-1c5d7e70ae4a.png" width="75%" style="display: block; margin: auto;" />
 
 ## Installation
 
